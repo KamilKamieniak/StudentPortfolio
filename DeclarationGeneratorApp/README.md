@@ -44,11 +44,13 @@ Aplikacja może być wykorzystywana np. w organizacjach studenckich lub kołach 
 
 1. Przygotuj plik `czlonkowie.csv` w katalogu projektu, np.:
 ID Imię Nazwisko Email Telefon
+
 1 Jan Kowalski jan.kowalski@example.com
+
 2 Anna Nowak anna.nowak@example.com
 
-2. Uruchom klasę `Main.java`.
+3. Uruchom klasę `Main.java`.
 
-3. W folderze `deklaracje` pojawią się automatycznie wygenerowane pliki DOCX (np. `Deklaracja_Jan_Kowalski.docx`).
+4. W folderze `deklaracje` pojawią się automatycznie wygenerowane pliki DOCX (np. `Deklaracja_Jan_Kowalski.docx`).
 
 
