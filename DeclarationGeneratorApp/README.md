@@ -43,11 +43,12 @@ Aplikacja może być wykorzystywana np. w organizacjach studenckich lub kołach 
 ## Uruchomienie
 
 1. Przygotuj plik `czlonkowie.csv` w katalogu projektu, np.:
-ID Imię Nazwisko Email Telefon
 
-1 Jan Kowalski jan.kowalski@example.com
+  ID Imię Nazwisko Email Telefon
 
-2 Anna Nowak anna.nowak@example.com
+  1 Jan Kowalski jan.kowalski@example.com
+  
+  2 Anna Nowak anna.nowak@example.com
 
 3. Uruchom klasę `Main.java`.
 
